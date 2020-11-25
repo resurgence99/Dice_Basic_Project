@@ -1,0 +1,19 @@
+
+h1
+{
+  font-size: 3rem;
+  font-family: 'cambria', cursive;
+}
+
+p
+{
+  font-size: 2rem;
+  font-family: 'cambria', cursive;
+}
+
+.container
+{
+  text-align: center;
+  margin:auto;
+  width:70%;
+}
